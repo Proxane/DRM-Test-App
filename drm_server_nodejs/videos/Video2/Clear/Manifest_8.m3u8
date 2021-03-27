@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-VERSION:6
+## Axinom Makemedia v4.1.2-004677-9bc38e0 targeting General Purpose Media Format specification v10
+## ffmpeg version N-90069-gdd8351b118-sherpya Copyright (c) 2000-2018 the FFmpeg developers
+## x265 [info]: HEVC encoder version 2.4+14-bc0e9bd7c08f5ddc
+## x264 0.150.2833 df79067
+## MP4Box - GPAC version 0.7.2-DEV-rev539-gff59dfa0-master
+## MediaInfoLib - v0.7.96
+#EXT-X-TARGETDURATION:4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MAP:URI="8/init.mp4"
+#EXTINF:4,
+8/0001.m4s
+#EXTINF:4,
+8/0002.m4s
+#EXTINF:4,
+8/0003.m4s
+#EXTINF:4,
+8/0004.m4s
+#EXTINF:4,
+8/0005.m4s
+#EXTINF:4,
+8/0006.m4s
+#EXTINF:4,
+8/0007.m4s
+#EXT-X-ENDLIST

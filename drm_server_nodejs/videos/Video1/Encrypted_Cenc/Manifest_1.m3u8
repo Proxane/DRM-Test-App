@@ -1,0 +1,49 @@
+#EXTM3U
+#EXT-X-VERSION:6
+## Axinom Makemedia v4.1.2-004677-9bc38e0 targeting General Purpose Media Format specification v10
+## ffmpeg version N-90069-gdd8351b118-sherpya Copyright (c) 2000-2018 the FFmpeg developers
+## x265 [info]: HEVC encoder version 2.4+14-bc0e9bd7c08f5ddc
+## x264 0.150.2833 df79067
+## MP4Box - GPAC version 0.7.2-DEV-rev539-gff59dfa0-master
+## MediaInfoLib - v0.7.96
+#EXT-X-TARGETDURATION:4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MAP:URI="1/init.mp4"
+## FairPlay DRM is not available as it is not compatible with the encryption mode used for this content.
+## Widevine DRM
+#EXT-X-KEY:METHOD=SAMPLE-AES-CTR,URI="data:text/plain;base64,AAAANHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABQIARIQBtiq596gQiK114kZM5h9mw==",KEYID=0x06D8AAE7DEA04222B5D7891933987D9B,KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",KEYFORMATVERSIONS="1"
+#EXTINF:4,
+1/0001.m4s
+#EXTINF:4,
+1/0002.m4s
+#EXTINF:4,
+1/0003.m4s
+#EXTINF:4,
+1/0004.m4s
+#EXTINF:4,
+1/0005.m4s
+#EXTINF:4,
+1/0006.m4s
+#EXTINF:4,
+1/0007.m4s
+#EXTINF:4,
+1/0008.m4s
+#EXTINF:4,
+1/0009.m4s
+#EXTINF:4,
+1/0010.m4s
+#EXTINF:4,
+1/0011.m4s
+#EXTINF:4,
+1/0012.m4s
+#EXTINF:4,
+1/0013.m4s
+#EXTINF:4,
+1/0014.m4s
+#EXTINF:4,
+1/0015.m4s
+#EXTINF:4,
+1/0016.m4s
+#EXTINF:4,
+1/0017.m4s
+#EXT-X-ENDLIST
